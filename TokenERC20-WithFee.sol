@@ -1,8 +1,6 @@
-git remote add master https://github.com/dorivalac/Token-ERC20-with-tax.git
-
 //  Ethereum token (smart contract) that subtracts fee on each transfer
 //
-//  Token subtrai uma taxa a cada transferência (alem da taxa dos mineiradores)
+//  Token subtrai uma taxa a cada transferÃªncia (alem da taxa dos mineiradores)
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
@@ -36,7 +34,7 @@ contract TokenHH {
     }
 
 
-ssh-keygen -t rsa -b 4096 -C “youremail@example.com”
+ssh-keygen -t rsa -b 4096 -C â€œyouremail@example.comâ€
     
     function balanceOf(address owner) public view returns(uint) {
         return balances[owner];
