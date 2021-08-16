@@ -1,6 +1,7 @@
 //  Ethereum token (smart contract) that subtracts fee on each transfer
 //
 //  Token subtrai uma taxa a cada transferência (alem da taxa dos mineiradores)
+//  Dorival A. Cardozo dorivalac@gmail.com - Inverno/2021
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
