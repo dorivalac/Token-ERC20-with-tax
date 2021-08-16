@@ -32,10 +32,7 @@ contract TokenHH {
         donateValue   = 5;
                         //  5 = 0.000005
     }
-
-
-ssh-keygen -t rsa -b 4096 -C “youremail@example.com”
-    
+   
     function balanceOf(address owner) public view returns(uint) {
         return balances[owner];
     }
